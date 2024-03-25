@@ -1,4 +1,4 @@
-Прізвище -> ""
+Прізвище -> "КУЦА В.М."
 
 # How to start ?
 1. env.example -> .env Add all field.
